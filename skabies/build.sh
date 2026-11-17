@@ -13,4 +13,5 @@ node core/render/video.mjs "$HERE" --fps 24 --workers 4 --out "$HERE/out/video.m
 "$LIB/.venv/bin/python" "$HERE/music.py"
 "$LIB/.venv/bin/python" "$HERE/mix.py"
 "$LIB/.venv/bin/python" "$HERE/tools/srt.py"
-sh "$HERE/tools/master.sh" "$HERE/out/video.mp4" "$HERE/out/mix.wav" "$HERE/skabies.mp4"   # mux.sh needs ffmpeg 7; with 7+ use: sh core/render/mux.sh … 24 0
+ffmpeg -hide_banner -loglevel error -y -i "$HERE/out/video.mp4" -c:v libx264 -crf 24 -preset slow -tune stillimage -pix_fmt yuv420p -movflags +faststart "$HERE/out/small.mp4"
+sh "$HERE/tools/master.sh" "$HERE/out/small.mp4" "$HERE/out/mix.wav" "$HERE/skabies.mp4"   # mux.sh needs ffmpeg 7; with 7+ use: sh core/render/mux.sh … 24 0
