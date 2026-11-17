@@ -1,0 +1,20 @@
+SKABIES — dari tungau sampai terapi · film penjelasan whiteboard
+Semua gambar digambar dengan kode (engine/wb.js). Tidak ada gambar hasil generator, tidak ada artwork pihak ketiga.
+
+Tulisan di papan
+  EMS Tech — SIL Open Font License 1.1. Font satu-garis oleh Sheldon B. Michaels, turunan dari
+  "Architects Daughter" karya Kimberly Geswein; konversi SVG oleh Windell H. Oskay (Evil Mad Scientist).
+  Diperoleh dari paket npm "hersheytext" (MIT).
+Subtitle
+  Architects Daughter — Kimberly Geswein, SIL Open Font License 1.1 (fonts/OFL-ArchitectsDaughter.txt).
+Sampel musik (CC0 1.0)
+  VS Chamber Orchestra: Community Edition (Versilian Studios), Versilian Community Sample Library (Versilian Studios).
+  Instrumen: marimba, glockenspiel, vibraphone, harp, violins_pizz, cellos_pizz, contrabass_pizz, woodblock.
+Musik, foley, dan desain suara
+  Orisinal, disintesis di music.py dan mix.py.
+Perangkat
+  Engine papan tulis dan alat render dari library Lemo-Opuscar (MIT AND CC-BY-NC-4.0).
+Suara narator
+  Tidak ada (teks + subtitle).
+Materi medis
+  Lihat FACTS.md untuk sumber setiap klaim.

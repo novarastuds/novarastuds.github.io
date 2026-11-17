@@ -1,0 +1,423 @@
+1
+00:00:00,000 --> 00:00:03,863
+Titik merah sekecil ini panjangnya hanya ±0,4 mm.
+
+2
+00:00:03,913 --> 00:00:07,712
+Tapi ia membuat gatal hebat, terutama di malam hari…
+
+3
+00:00:07,752 --> 00:00:11,689
+…dan sering kali, satu rumah ikut gatal.
+
+4
+00:00:11,739 --> 00:00:16,907
+Itulah skabies. Kita bahas tuntas: dari definisi sampai terapi.
+
+5
+00:00:18,913 --> 00:00:22,970
+Skabies adalah penyakit kulit menular akibat infestasi
+
+6
+00:00:23,010 --> 00:00:27,518
+dan sensitisasi terhadap tungau Sarcoptes scabiei var. hominis
+
+7
+00:00:27,558 --> 00:00:32,559
+beserta produknya: telur, feses (skibala), dan sekretnya.
+
+8
+00:00:32,609 --> 00:00:37,776
+Di Indonesia dikenal sebagai kudis, gudig, atau budukan.
+
+9
+00:00:39,783 --> 00:00:45,563
+Lebih dari 200 juta orang di dunia menderita skabies setiap saat.
+
+10
+00:00:45,652 --> 00:00:51,472
+Sejak 2017, WHO memasukkannya ke daftar penyakit tropis terabaikan (NTD).
+
+11
+00:00:51,522 --> 00:00:55,191
+Menyerang semua usia, tersering pada anak-anak,
+
+12
+00:00:55,231 --> 00:01:00,602
+terutama di lingkungan padat: pesantren, asrama, panti, penjara.
+
+13
+00:01:00,652 --> 00:01:04,838
+Faktor risiko: hunian padat, kontak erat, higiene kurang,
+
+14
+00:01:04,878 --> 00:01:09,733
+sosial-ekonomi rendah, dan imunitas yang menurun.
+
+15
+00:01:11,739 --> 00:01:16,907
+Penyebabnya adalah tungau (mite): Sarcoptes scabiei var. hominis.
+
+16
+00:01:16,957 --> 00:01:22,776
+Ia bukan serangga: tungau termasuk Arachnida, kerabat laba-laba dan caplak.
+
+17
+00:01:22,826 --> 00:01:27,205
+Betina berukuran 0,3–0,45 mm, jantan kira-kira setengahnya.
+
+18
+00:01:27,245 --> 00:01:31,254
+Tubuhnya oval, putih keabuan, dengan 4 pasang kaki.
+
+19
+00:01:31,304 --> 00:01:35,813
+Tak bisa terbang atau melompat; hanya merayap, ±2,5 cm per menit.
+
+20
+00:01:35,853 --> 00:01:40,385
+Di luar tubuh manusia, tungau hanya bertahan ±2–3 hari.
+
+21
+00:01:42,391 --> 00:01:47,981
+Tungau kawin di permukaan kulit; tungau jantan lalu mati.
+
+22
+00:01:48,913 --> 00:01:53,421
+Betina menggali terowongan di stratum korneum, ±2–3 mm per hari,
+
+23
+00:01:53,461 --> 00:01:57,993
+sambil bertelur 2–4 butir per hari selama hidupnya (±30 hari).
+
+24
+00:01:58,043 --> 00:02:02,294
+Telur menetas dalam 3–5 hari menjadi larva berkaki 3 pasang,
+
+25
+00:02:02,334 --> 00:02:06,472
+lalu berubah menjadi nimfa, kemudian tungau dewasa.
+
+26
+00:02:06,522 --> 00:02:10,514
+Satu siklus, dari telur sampai dewasa, hanya 8–12 hari.
+
+27
+00:02:10,554 --> 00:02:16,254
+Pada skabies klasik, tubuh pasien rata-rata hanya membawa 10–15 tungau.
+
+28
+00:02:17,609 --> 00:02:22,111
+Cara utama: kontak langsung kulit-ke-kulit yang lama dan erat,
+
+29
+00:02:22,151 --> 00:02:27,341
+misalnya tinggal serumah, tidur bersama, atau berhubungan seksual.
+
+30
+00:02:27,391 --> 00:02:31,190
+Lewat benda (handuk, pakaian, sprei) lebih jarang —
+
+31
+00:02:31,230 --> 00:02:36,472
+kecuali pada skabies krustosa yang berisi sangat banyak tungau.
+
+32
+00:02:36,522 --> 00:02:41,689
+Kontak singkat, seperti berjabat tangan, jarang menularkan.
+
+33
+00:02:43,696 --> 00:02:49,515
+Saat menggali, tungau mengeluarkan enzim yang melarutkan keratin.
+
+34
+00:02:49,565 --> 00:02:54,733
+Saliva, telur, dan skibala (fesesnya) bertindak sebagai antigen.
+
+35
+00:02:54,783 --> 00:02:59,226
+Tubuh bereaksi: hipersensitivitas tipe IV (lambat) dan tipe I.
+
+36
+00:02:59,266 --> 00:03:03,863
+Reaksi inilah — bukan gigitan — yang menimbulkan gatal dan ruam.
+
+37
+00:03:03,913 --> 00:03:08,292
+Pada infestasi pertama, gatal baru muncul setelah 2–6 minggu.
+
+38
+00:03:08,332 --> 00:03:12,131
+Pada infestasi ulang, gejala muncul dalam 1–4 hari.
+
+39
+00:03:12,171 --> 00:03:17,559
+Jadi, orang tanpa gejala bisa sudah tertular — dan menularkan.
+
+40
+00:03:19,565 --> 00:03:23,493
+Gatal khas memburuk di malam hari: pruritus nokturna.
+
+41
+00:03:23,533 --> 00:03:28,646
+Tungau lebih aktif saat kulit hangat, misalnya di balik selimut.
+
+42
+00:03:28,696 --> 00:03:34,444
+Garukan membuat kulit lecet (ekskoriasi) — pintu masuk bakteri.
+
+43
+00:03:34,565 --> 00:03:38,170
+Tungau juga menghambat sistem komplemen kulit,
+
+44
+00:03:38,210 --> 00:03:42,138
+sehingga S. pyogenes dan S. aureus mudah menginfeksi:
+
+45
+00:03:42,178 --> 00:03:46,254
+timbul impetigo, selulitis, hingga abses.
+
+46
+00:03:46,304 --> 00:03:50,103
+Infeksi streptokokus bisa berlanjut menjadi GNAPS
+
+47
+00:03:50,143 --> 00:03:54,716
+(glomerulonefritis akut pascastreptokokus) dan demam rematik.
+
+48
+00:03:54,756 --> 00:03:57,993
+Skabies bukan sekadar gatal.
+
+49
+00:04:00,000 --> 00:04:05,347
+Lesi khas: terowongan (kanalikulus) putih keabuan, lurus atau berkelok, ±1 cm.
+
+50
+00:04:05,387 --> 00:04:10,385
+Di ujungnya ada papul atau vesikel — di situlah tungau berada.
+
+51
+00:04:10,435 --> 00:04:15,602
+Garukan dan infeksi menambah lesi: papul, pustul, ekskoriasi, krusta.
+
+52
+00:04:15,652 --> 00:04:19,644
+Tempat predileksi: kulit dengan lapisan tanduk tipis —
+
+53
+00:04:19,684 --> 00:04:23,935
+sela jari, pergelangan tangan, siku, lipat ketiak, areola,
+
+54
+00:04:23,975 --> 00:04:28,646
+pusar, pinggang, bokong, dan genitalia pria.
+
+55
+00:04:28,696 --> 00:04:32,494
+Wajah dan kepala biasanya bebas — kecuali pada bayi,
+
+56
+00:04:32,534 --> 00:04:37,776
+yang juga bisa terkena di telapak tangan dan telapak kaki.
+
+57
+00:04:39,783 --> 00:04:43,001
+Bentuk tersering adalah skabies klasik.
+
+58
+00:04:43,041 --> 00:04:49,515
+Skabies nodular: nodul merah-cokelat yang sangat gatal, bisa menetap berbulan-bulan.
+
+59
+00:04:49,565 --> 00:04:54,783
+Skabies incognito: gambarannya tersamar karena pemakaian kortikosteroid.
+
+60
+00:04:54,823 --> 00:04:59,950
+Pada bayi dan anak, lesi bisa muncul di wajah, kepala, dan telapak.
+
+61
+00:05:01,304 --> 00:05:06,393
+Paling berbahaya: skabies krustosa (Norwegia), pada imunitas yang lemah.
+
+62
+00:05:06,433 --> 00:05:11,006
+Kulitnya berkrusta tebal dan berisi ribuan hingga jutaan tungau.
+
+63
+00:05:11,046 --> 00:05:15,602
+Gatalnya bisa ringan — tetapi sangat menular.
+
+64
+00:05:17,609 --> 00:05:20,956
+Diagnosis klinis memakai 4 tanda kardinal:
+
+65
+00:05:20,996 --> 00:05:24,795
+1) gatal malam hari, 2) menyerang sekelompok orang,
+
+66
+00:05:24,835 --> 00:05:30,602
+3) terowongan di tempat predileksi, 4) ditemukan tungau, telur, atau skibala.
+
+67
+00:05:30,652 --> 00:05:35,820
+Diagnosis ditegakkan bila ditemukan minimal 2 dari 4 tanda kardinal.
+
+68
+00:05:35,870 --> 00:05:41,088
+Penunjang: kerokan kulit di ujung terowongan, diperiksa di bawah mikroskop.
+
+69
+00:05:41,128 --> 00:05:45,572
+Bisa juga tes tinta terowongan, dermoskopi, atau swab selotip.
+
+70
+00:05:45,612 --> 00:05:49,515
+Hasil negatif tidak menyingkirkan skabies.
+
+71
+00:05:49,565 --> 00:05:56,037
+Kriteria internasional IACS 2020 membaginya menjadi terkonfirmasi, klinis, dan suspek.
+
+72
+00:05:58,043 --> 00:06:01,326
+Skabies sering mirip penyakit gatal lain.
+
+73
+00:06:01,366 --> 00:06:05,810
+Bedakan dengan dermatitis atopik, prurigo, gigitan serangga,
+
+74
+00:06:05,850 --> 00:06:11,642
+pedikulosis korporis, dermatitis kontak, dan impetigo.
+
+75
+00:06:12,391 --> 00:06:16,964
+Skabies krustosa bisa mirip psoriasis atau dermatitis seboroik.
+
+76
+00:06:17,004 --> 00:06:22,124
+Kuncinya: gatal malam, menyerang kelompok, dan ada terowongan.
+
+77
+00:06:24,130 --> 00:06:27,545
+Pilihan utama: permetrin 5% krim.
+
+78
+00:06:27,585 --> 00:06:32,481
+Oleskan dari leher ke ujung kaki, termasuk sela jari, kuku, dan genital.
+
+79
+00:06:32,521 --> 00:06:37,352
+Bayi dan lansia: kepala dan wajah juga diolesi, hindari mata dan mulut.
+
+80
+00:06:37,392 --> 00:06:42,341
+Biarkan 8–12 jam (semalam), lalu mandi. Aman untuk bayi ≥ 2 bulan.
+
+81
+00:06:43,696 --> 00:06:46,914
+Ulangi satu minggu kemudian (hari ke-7).
+
+82
+00:06:46,954 --> 00:06:52,776
+Obat kurang mampu membunuh telur — dosis kedua membasmi larva yang baru menetas.
+
+83
+00:06:52,826 --> 00:06:57,722
+Alternatif: salep sulfur presipitatum 5–10%, 3 malam berturut-turut —
+
+84
+00:06:57,762 --> 00:07:00,334
+aman untuk bayi dan ibu hamil.
+
+85
+00:07:00,374 --> 00:07:06,472
+Lainnya: benzil benzoat 20–25% atau krotamiton 10%. Lindan dihindari.
+
+86
+00:07:06,522 --> 00:07:11,675
+Obat oral: ivermektin 200 μg/kgBB dosis tunggal, diulang setelah 7–14 hari.
+
+87
+00:07:11,715 --> 00:07:16,907
+Tidak untuk anak dengan berat < 15 kg, ibu hamil, dan menyusui.
+
+88
+00:07:18,913 --> 00:07:23,938
+Prinsip terpenting: obati pasien dan semua kontak erat secara bersamaan,
+
+89
+00:07:23,978 --> 00:07:29,298
+walaupun mereka belum bergejala — agar tidak saling menulari ulang.
+
+90
+00:07:29,348 --> 00:07:33,663
+Untuk gatal: antihistamin sedatif di malam hari dan emolien.
+
+91
+00:07:33,703 --> 00:07:39,733
+Infeksi sekunder diberi antibiotik; nodul yang menetap dengan kortikosteroid.
+
+92
+00:07:39,783 --> 00:07:44,936
+Cuci pakaian, sprei, dan handuk dengan air panas ≥ 60 °C lalu keringkan panas,
+
+93
+00:07:44,976 --> 00:07:49,515
+atau simpan dalam kantong plastik tertutup minimal 72 jam.
+
+94
+00:07:49,565 --> 00:07:56,037
+Skabies krustosa: permetrin + ivermektin berulang, keratolitik, dan isolasi.
+
+95
+00:07:58,043 --> 00:08:02,533
+Setelah terapi berhasil, gatal bisa bertahan 2–4 minggu.
+
+96
+00:08:02,573 --> 00:08:06,630
+Itu reaksi terhadap sisa tungau mati — bukan tanda gagal.
+
+97
+00:08:06,670 --> 00:08:11,037
+Jangan mengoles obat berulang-ulang secara berlebihan.
+
+98
+00:08:11,087 --> 00:08:13,918
+Kontrol pada minggu ke-2 dan ke-4.
+
+99
+00:08:13,958 --> 00:08:18,402
+Ada terowongan atau lesi baru? Evaluasi cara pakai, kepatuhan,
+
+100
+00:08:18,442 --> 00:08:22,577
+dan kontak yang belum ikut diobati.
+
+101
+00:08:24,783 --> 00:08:28,839
+Pencegahan: jangan berbagi handuk, pakaian, dan sprei;
+
+102
+00:08:28,879 --> 00:08:32,549
+obati kontak sekaligus; di asrama dan pesantren,
+
+103
+00:08:32,589 --> 00:08:37,047
+lakukan skrining dan pengobatan massal.
+
+104
+00:08:37,174 --> 00:08:41,166
+Prognosis skabies baik — bila obat dipakai dengan benar
+
+105
+00:08:41,206 --> 00:08:44,950
+dan semua kontak ikut diobati.
+
+106
+00:08:45,000 --> 00:08:50,555
+Kecil tungaunya, besar dampaknya — tetapi bisa disembuhkan.
